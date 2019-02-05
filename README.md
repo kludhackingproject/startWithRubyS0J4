@@ -1,3 +1,3 @@
 # startWithRubyS0J4
 
-Excercice du du jour 4 semaine 0
+Excercice des jours 4 et 5 de la semaine 0
