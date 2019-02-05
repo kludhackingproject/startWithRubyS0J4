@@ -6,10 +6,10 @@ print "> "
 brick_number = gets.chomp.to_i
 
 
-while n <= brick_number # Tant que n est inférieur ou égal à 10, le code est exécuté.
+while n <= brick_number
   n.times do
       print brick
   end
   print ("\n")
-  n += 1 # On ajoute 1 à n à chaque tour pour que sa valeur atteigne 10.
+  n += 1
 end
